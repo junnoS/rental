@@ -1,0 +1,19 @@
+@media(max-width:670px){
+  .btn{
+    width: 100%;
+  }
+  .facebook{
+    margin-bottom: 10px;
+  }
+  .main {
+    height:900px;
+  }
+  .header-list {
+    display:none;
+  }
+  .menu-icon {
+    display: block;
+  }
+}
+
+
